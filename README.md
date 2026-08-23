@@ -184,6 +184,7 @@ Frameworks and projects for multiple cooperating agents.
 - **[MetaGPT](https://github.com/geekan/MetaGPT)** - Multi-agent framework for software development.
 - **[Camel](https://github.com/camel-ai/camel)** - Role-playing multi-agent framework.
 - **[Agno](https://github.com/phidatahq/phidata)** - Build multi-modal agents (formerly Phidata).
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** - Local-first desktop AI workforce with Commander-led planning and specialist-agent coordination.
 
 **Tutorials:**
 - [Multi-Agent System with CrewAI](https://pyshine.com/CrewAI-Multi-Agent-Orchestration-Framework/)
