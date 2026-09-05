@@ -163,6 +163,7 @@ Agents that search the web, read papers, and synthesize knowledge.
 
 Agents that browse and interact with web pages.
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** - Natural-language web, Android, and iOS testing agent with execution memory (TypeScript; source-available under FSL-1.1-ALv2).
 - **[Browser Use](https://github.com/browser-use/browser-use)** - Python library for AI web agents.
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern)** - AI agent for browser automation.
 - **[LaVague](https://github.com/lavague-ai/LaVague)** - Web agent framework.
