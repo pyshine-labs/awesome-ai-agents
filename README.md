@@ -238,6 +238,7 @@ Tools that agents can use to interact with the world.
 
 - **[E2B](https://e2b.dev/)** - Sandboxed code execution for agents.
 - **[Daytona](https://daytona.io/)** - Secure sandbox environments.
+- **[Tale](https://tale.dev/)** - Shared workspace for assigning tasks to reusable AI agents, running coding harnesses in sandboxes, and reviewing deliverables.
 - **[Jupyter Kernel](https://jupyter.org/)** - IPython kernel for code execution.
 
 ### File & Document
